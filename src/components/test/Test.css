@@ -1,0 +1,6 @@
+.test {
+	@apply text-3xl font-bold underline text-red-500;
+}
+.buttonRed {
+	@apply text-3xl font-bold underline bg-red-500;
+}
